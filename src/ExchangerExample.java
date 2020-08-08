@@ -1,6 +1,4 @@
 
-//The Exchanger Class provides a sort of rendezvous point for two threads
-
 import java.util.concurrent.Exchanger;
  
 public class ExchangerExample
